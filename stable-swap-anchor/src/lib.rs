@@ -1,8 +1,9 @@
 //! Anchor-compatible SDK for the StableSwap program.
-#![deny(missing_docs)]
+#![allow(missing_docs)]
 #![deny(rustdoc::all)]
 #![allow(rustdoc::missing_doc_code_examples)]
 #![allow(clippy::nonstandard_macro_braces)]
+#![allow(unexpected_cfgs)]
 
 mod accounts;
 mod instructions;
