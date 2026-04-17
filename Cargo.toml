@@ -1,11 +1,11 @@
 [workspace]
 members = [
     # "fuzz",
-    "stable-swap-anchor/",
+    # "stable-swap-anchor/",
     "stable-swap-client/",
     "stable-swap-math/",
-    "stable-swap-math/sim",
-    "stable-swap-program/program"
+    # "stable-swap-math/sim",
+    # "stable-swap-program/program"
 ]
 
 [profile.release]
